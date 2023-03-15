@@ -1,0 +1,101 @@
+id,sample_name,manufacturer,vendor,product_type,package_type,modality,label
+A-D-64QFP-01B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-01F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-02B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-02F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-03B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-03F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-04B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-04F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-05B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-05F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-06B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-06F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-07B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-07F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-08B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-08F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-09B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-09F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-10B-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-10F-SM,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+C-T-64QFP-11B-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-11F-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-12B-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-12F-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-13B-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-13F-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-14B-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-14F-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-15B-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-T-64QFP-15F-SM,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,Stereo Microscope,1
+C-O-08DIP-16B-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-16F-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-17B-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-17F-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-18B-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-18F-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-19B-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-19F-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-20B-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+C-O-08DIP-20F-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,1
+A-O-08DIP-21B-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-21F-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-22B-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-22F-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-23B-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-23F-SM,LM2903P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-24B-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-24F-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-25B-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-O-08DIP-25F-SM,INA122P,Texas Instruments ,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,Stereo Microscope,0
+A-D-64QFP-26B-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-26F-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-27B-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-27F-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-28B-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-28F-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-29B-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-29F-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-30B-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-D-64QFP-30F-SM,STM32F105R8T7,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,Stereo Microscope,0
+A-O-08DIP-31B-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-31F-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-32B-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-32F-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-33B-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-33F-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+C-O-08DIP-34B-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,1
+C-O-08DIP-34F-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,1
+C-O-08DIP-35B-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,1
+C-O-08DIP-35F-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,1
+C-O-08DIP-36B-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,1
+C-O-08DIP-36F-D,LM2903P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,1
+A-O-08DIP-37B-D,LM293P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-37F-D,LM293P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-38B-D,LM293P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-38F-D,LM293P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-39B-D,LM293P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-39F-D,LM293P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-40B-D,LM258P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-O-08DIP-40F-D,LM258P,Texas Instruments,Unknown,Integrated Circuits (ICs) -  Linear Comparators,08DIP,DSLR,0
+A-D-64QFP-41B-D,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,DSLR,0
+A-D-64QFP-41F-D,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,DSLR,0
+A-D-64QFP-42B-D,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,DSLR,0
+A-D-64QFP-42F-D,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,DSLR,0
+A-D-64QFP-43B-D,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,DSLR,0
+A-D-64QFP-43F-D,STM32F103RCT6,STMicroelectronics,Digi-Key Electronics,Embedded - Microcontrollers,64QFP,DSLR,0
+C-T-64QFP-44B-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-44F-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-45B-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-45F-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-46B-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-46F-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-47B-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-47F-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-48B-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-48F-D,STM32F103RCT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-49B-D,STM32F103RGT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-64QFP-49F-D,STM32F103RGT6,STMicroelectronics,Taobao,Embedded - Microcontrollers,64QFP,DSLR,1
+C-T-48QFP-50B-D,STM32F103C8T6,STMicroelectronics,Taobao,Embedded - Microcontrollers,48QFP,DSLR,1
+C-T-48QFP-50F-D,STM32F103C8T6,STMicroelectronics,Taobao,Embedded - Microcontrollers,48QFP,DSLR,1
