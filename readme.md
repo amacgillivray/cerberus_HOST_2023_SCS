@@ -1,5 +1,5 @@
 # CERBERUS - IEEE HOST 2023
-[DEMO LINK](#) - **TODO**
+[DEMO LINK](https://youtu.be/JxXAU5iE-uA)
 
 This repository replicates (including images) the environment we used to train and run our model for the 2023 IEEE HOST SCS competition.
 
